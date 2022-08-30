@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshivam-shah&label=Profile%20views&color=0e75b6&style=flat" alt="sshivam-shah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sshivam-shah" target="blank"><img src="https://img.shields.io/twitter/follow/sshivam-shah?logo=twitter&style=for-the-badge" alt="sshivam-shah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sshivam_shah" target="blank"><img src="https://img.shields.io/twitter/follow/sshivam_shah?logo=twitter&style=for-the-badge" alt="sshivam_shah" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
